@@ -39,6 +39,7 @@
         <li><a href="#jsps">JSPs</a></li>
         <li><a href="#assets">Assets</a></li>
         <li><a href="#servlets">Servlets</a></li>
+        <li><a href="#routes">Routes</a></li>
         <li><a href="design-patterns">Design Patterns</a></li>
       </ul>
     </div><!-- /.navbar-collapse -->

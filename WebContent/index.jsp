@@ -62,6 +62,17 @@
 		</div>
 	</article>
 	
+	<!-- ROUTES -->
+	<article>
+		<header>
+			<h2 id="routes">Routes</h2>
+		</header>		
+		<div class="entry-content">
+			<p>	
+			</p>
+		</div>
+	</article>
+	
 	<!-- DESIGN PATTERNS -->
 	<article>
 		<header>

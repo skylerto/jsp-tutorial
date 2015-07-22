@@ -1,0 +1,69 @@
+@CHARSET "ISO-8859-1";
+
+
+/**
+*	TABLE OF CONTENTS
+*
+*	1. Header
+*	2. General Content
+*	3. Footer
+*
+*/
+
+/* 1. Header */
+
+.header {
+	background-color: #D3D3D3;
+	padding: 50px;	
+	width: 100%;
+	margin-top: -20px;
+	margin-bottom: 50px;
+}
+
+.header #message {
+	width: 50%;
+	font-size: 200%;
+	text-align: center;
+	margin-top: 25px;
+	color: #0074BD;
+}
+
+.header img {
+	width: 100%;
+}
+
+.header .header-image {
+	width: 276.5px;
+	border: 1px solid white;
+	padding: 20px;
+	border-radius: 10px;
+}
+
+/* 2.0 General Content */
+h2, h3 {
+	text-align: center;
+}
+
+p {
+	text-align: justified;
+	font-size: 115%;
+}
+
+/*
+*	3.0 Footer
+*/
+
+footer {
+	margin-top: 50px;
+	border-top: 1px solid #d3d3d3;
+}
+
+.clearfix {
+	clear:both;
+}
+.center {
+	margin: 0px auto;
+}
+
+body {
+}

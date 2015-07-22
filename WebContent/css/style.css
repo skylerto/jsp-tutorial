@@ -10,7 +10,16 @@
 *
 */
 
-/* 1. Header */
+body {
+	background-color: #F8F8F8;
+}
+
+.navbar {
+	border: none;
+}
+/* 
+*	1. Header 
+*/
 
 .header {
 	background-color: #D3D3D3;
@@ -39,7 +48,9 @@
 	border-radius: 10px;
 }
 
-/* 2.0 General Content */
+/* 
+*	2.0 General Content
+*/
 h2, h3 {
 	text-align: center;
 }
@@ -56,6 +67,7 @@ p {
 footer {
 	margin-top: 50px;
 	border-top: 1px solid #d3d3d3;
+	padding: 50px;
 }
 
 .clearfix {
